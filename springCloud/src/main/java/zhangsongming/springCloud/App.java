@@ -1,4 +1,4 @@
-package zhangsongming.designPatterns;
+package zhangsongming.springCloud;
 
 /**
  * Hello world!
